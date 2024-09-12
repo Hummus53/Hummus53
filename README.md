@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Hummus53
-- 👀 I’m interested in python and learning it
-- 🌱 I’m currently learning python
+- 👀 I’m interested in python and swift
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me is my email anashanoon2006@gmail.com
 
